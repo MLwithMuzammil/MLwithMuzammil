@@ -11,9 +11,4 @@ End-to-End Data Analytics Project: Complete data analysis process using Kaggle A
 ETL with Python: Acquiring and processing information on the world's largest banks, focusing on logging, data extraction, transformation, and database management.
 
 
-Find more in my repositories and feel free to explore! 👨‍💻✨
-
-
-MLwithMuzammil/MLwithMuzammil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Find more in my repositories and feel free to explore! 👨‍💻
